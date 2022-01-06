@@ -1,0 +1,30 @@
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.pic-text{
+    width: 50%;
+    padding-left: 5%;
+}
+.pic-text img{
+    width: 60%;
+}
+.explore-button{
+    text-decoration: none;
+    background-color: rgb(10, 10, 241);
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+.focused{
+    background-image: url(images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    padding-bottom: 5%;
+}
+
+h3{
+    color: silver;
+}
