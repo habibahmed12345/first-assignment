@@ -13,7 +13,7 @@ section{
 }
 .explore-button{
     text-decoration: none;
-    background-color: rgb(10, 10, 241);
+    background-color: rgb(245, 229, 6);
     padding: 5px 20px;
     border-radius: 5px;
     color: whitesmoke;
@@ -28,3 +28,121 @@ section{
 h3{
     color: silver;
 }
+#moddom{
+    text-align: center;
+}
+
+.mission-vission img{
+    width: 20%;
+    display: flex;
+    padding-left: 10%;
+    text-align: center;
+}
+.bcd{
+    background-color: burlywood;
+    border:gray solid;
+    border-radius: 10px;
+    padding-left: 10%;
+    padding-right: 5%;
+    box-shadow:grey 10px 10px 10px;
+}
+.dvd{
+    background-color: lightblue;
+    border: grey solid;
+    border-radius: 10px;
+    box-shadow:gray 10px 10px 10px;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+.xyz{
+    background-color: lightseagreen;
+    border: gray solid;
+    border-radius: 10px;
+    padding-left: 10%;
+    padding-right: 5%;
+    box-shadow: grey 10px 10px 10px;
+}
+#second-part{
+    display: flex;
+    padding-right: 10%;
+
+    padding-left: 10px;
+
+
+}
+#second-part img{
+    width: 40px;
+    margin: 10px;
+    padding: 5px;
+}
+#border{
+    border-left: rgb(245, 51, 2) solid 5px;
+    border-radius: 2px;
+}
+.mission-vission{
+    padding-top: 10px;
+    padding-bottom: 10%;
+
+
+}
+.dis-flex img{
+    width: 80%;
+    padding-left: 40%;
+
+
+}
+.dis-flex{
+    display: flex;
+
+}
+.lorem{
+    padding-right: 20px;
+    padding-left: 10%;
+}
+.develop{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    padding-bottom: 10%;
+}
+.grobal img{
+    width: 60%;
+}
+.global{
+    padding-top: 10%;
+
+}
+.know{
+    padding-left: 10%;
+}
+.global{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+
+    background-position: bottom;
+    padding-bottom: 10%;
+}
+.global img{
+    box-shadow: darkgray 10px 10px 10px 10px ;
+}
+.last-img img{
+    width: 50%;
+    padding-left: 0%;
+
+    box-shadow: gray 10px 10px 10px 10px;
+
+
+
+}
+.web{
+    padding-right: 25%;
+
+}
+.smart{
+    background-image: url(images/shapes/shape-9.png);
+
+    background-position: right;
+    border-radius: 10%;
+    padding-top: 10px;
+    padding-bottom: 5%;
+}
+
