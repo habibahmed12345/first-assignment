@@ -176,3 +176,16 @@ h3{
 .middle{
    
 }
+#foot{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+#miss{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.footer{
+    background-color: black;
+}
