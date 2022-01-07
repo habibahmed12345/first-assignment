@@ -5,24 +5,31 @@ section{
     display: flex;
 }
 .pic-text{
-    width: 50%;
-    padding-left: 5%;
+    width: 80%;
+    padding-left:5%;
+    display: flex;
+    border: blue left;
 }
 .pic-text img{
-    width: 60%;
+width: 100%;
+
 }
 .explore-button{
     text-decoration: none;
     background-color: rgb(245, 229, 6);
-    padding: 5px 20px;
+    padding: 5px 20px 10px;
     border-radius: 5px;
     color: whitesmoke;
     font-weight: 500;
 }
-.focused{
-    background-image: url(images/shapes/shape-5.png);
+.Focused{
+    background-image: url(images/shapes/shape-6.png);
     background-repeat: no-repeat;
     padding-bottom: 5%;
+    display: flex;
+}
+.Fucused img{
+    width: 40px;
 }
 
 h3{
@@ -35,8 +42,13 @@ h3{
 .mission-vission img{
     width: 20%;
     display: flex;
-    padding-left: 10%;
+    
     text-align: center;
+}
+.mission-vission{
+    display: flex;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 .bcd{
     background-color: burlywood;
@@ -58,7 +70,7 @@ h3{
     background-color: lightseagreen;
     border: gray solid;
     border-radius: 10px;
-    padding-left: 10%;
+    padding-left: 5%;
     padding-right: 5%;
     box-shadow: grey 10px 10px 10px;
 }
@@ -98,14 +110,20 @@ h3{
 .lorem{
     padding-right: 20px;
     padding-left: 10%;
+    display: flex;
 }
+
 .develop{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    padding-bottom: 10%;
+    padding-bottom: 10%
+      
 }
-.grobal img{
-    width: 60%;
+.middle{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    
+}
+.global img{
+    width: 80%;
 }
 .global{
     padding-top: 10%;
@@ -114,8 +132,11 @@ h3{
 .know{
     padding-left: 10%;
 }
+.middle img{
+    width: 50%;
+}
 .global{
-    background-image: url(images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-3.png);
     background-repeat: no-repeat;
 
     background-position: bottom;
@@ -145,4 +166,13 @@ h3{
     padding-top: 10px;
     padding-bottom: 5%;
 }
+.smart img{
+    width: 60%;
+}
 
+.middle img{
+    width: 30%;
+}
+.middle{
+   
+}
